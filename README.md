@@ -1,4 +1,4 @@
-https://invo-zone-homepage.netlify.app/
+https://invo-zone.web.app/
 
 // InvoZone Homepage – Modern, animated, and responsive React front end for a tech company landing page.
 
