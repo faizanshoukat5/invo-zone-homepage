@@ -1,3 +1,5 @@
+// InvoZone Homepage – Modern, animated, and responsive React front end for a tech company landing page.
+
 # invozone
 
 A modern, visually-rich React web application inspired by invozone.com. Features a glassmorphic navigation bar, animated hero section with video background, interactive engagement models, and a fully responsive layout. Built for performance, accessibility, and a premium user experience.
